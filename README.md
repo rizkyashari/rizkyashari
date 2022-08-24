@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Clojure, React JS, Javascript, and Golang
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about front end and back end web development
-- ⚡ Fun fact: I love to draw and play musical instruments such as guitar, piano, and drums.
+- ⚡ Fun fact: I love to draw and play musical instruments such as guitar, piano, and drums
 
 ### Connect with me:
 
