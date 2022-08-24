@@ -2,25 +2,18 @@
 
 ## I'm a Developer and Educator!!
 
-- 🔭 I’m currently working as a Junior Engineer & Educator
-- 🌱 I’m currently learning Clojure, React JS, Javascript, and Golang
+- 🔭 I’m currently working as a Junior Engineer and Educator
+- 🌱 I’m currently learning Clojure, HTML, CSS, Javascript, React and Golang
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about front end and back end web development
 - ⚡ Fun fact: I love to draw and play musical instruments such as guitar, piano, and drums
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<p align="left"> 
+<a href="https://www.github.com/rizkyashari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/muhrizkyashari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/rizky-ashari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Languages and Tools:
 
