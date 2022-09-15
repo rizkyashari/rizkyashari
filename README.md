@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Educator!!
 
-- 🔭 I’m currently working as a Junior Engineer and Educator
+- 🔭 I’m currently working as a Junior Developer and Educator
 - 🌱 I’m currently learning Clojure, HTML, CSS, Javascript, React and Golang
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2022 Goals: Learn more about front end and back end web development
